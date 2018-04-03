@@ -1,0 +1,44 @@
+body{
+    background: #ffffff;
+}
+#header {
+	background: #e1e7f2;
+	height : 150px;
+	width : 100%;
+	padding:5px;
+	margin : 20px 0;
+}
+#menu-utama{
+	margin-top:3px;
+	list-style:none;
+}
+#menu-utama li{
+	float:left;
+	padding:8px 20px;
+	border-right:1px solid #555555;
+}
+#menu-utama li a{
+color : #111111;
+text-decoration:none;
+}
+#header form{
+	float:right;
+	margin-top:7px;
+	margin-right: 10px;
+}
+#header form input{
+	border:none;
+	height:20px;
+}
+#sidebar{
+	width: 270px;
+	float: right;
+}
+#footer{
+	clear: both;
+	margin: 20px 0;
+	text-align: center;
+	background-color: #e1e7f2;
+	padding: 5px;
+	color: #555555;
+}
