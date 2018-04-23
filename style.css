@@ -2,11 +2,14 @@ body{
     background: #ffffff;
 }
 #header {
-	background: #e1e7f2;
+	background: #ffffff;
 	height : 150px;
 	width : 100%;
 	padding:5px;
 	margin : 20px 0;
+}
+#header img {
+	align-content: center;
 }
 #menu-utama{
 	margin-top:3px;
@@ -26,13 +29,10 @@ text-decoration:none;
 	margin-top:7px;
 	margin-right: 10px;
 }
+
 #header form input{
 	border:none;
 	height:20px;
-}
-#sidebar{
-	width: 270px;
-	float: right;
 }
 #footer{
 	clear: both;
